@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "casbin": "2.0.0",
-    "mongoose": "5.4.2"
+    "mongoose": "5.7.5"
   },
   "husky": {
     "hooks": {
